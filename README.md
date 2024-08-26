@@ -10,4 +10,4 @@ Refer the link to see the simlution of the above scene: https://www.youtube.com/
 Scenario 2:
 Production Line:
 ![alt text](image_001_0000.jpg)
-
+Refer the link to see the simlution of the above scene: https://youtu.be/TGOjrZvSMzE?si=n0Z9oi8SRrPyFc6k
