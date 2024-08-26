@@ -5,6 +5,7 @@ I have developed different secenarios to levergae the RVIO platform.
 Scenario 1:
 Object sorting:
 ![alt text](image.png)
+Refer the link to see the simlution of the above scene: https://www.youtube.com/watch?v=JlNDoXkk2YA
 
 Scenario 2:
 Production Line:
