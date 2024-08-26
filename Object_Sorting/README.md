@@ -1,9 +1,5 @@
-"# RealVirtualIO" 
-"# RealVirtualIO" 
-This Project aims to use Real Virtual IO (RVIO)SOftware platform powered by Unity 3D
-I have developed different secenarios to levergae the RVIO platform.
+"# Object Sorting" 
 
-Scenario 1:
 Object sorting:
 scene setup:
 1 plunger and 2 conveyor
@@ -22,4 +18,6 @@ The signal FF detects the Box on the 2nd conveyor and sends the singal to the pl
 ![alt text](image-3.png)
 The plunger moves backward and triggers the BF signal activate the movement of the conveyor 1
 ![alt text](image-4.png)
+
+Refer the link to see the simlution of the above scene: https://www.youtube.com/watch?v=JlNDoXkk2YA
 
