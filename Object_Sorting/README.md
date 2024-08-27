@@ -1,4 +1,4 @@
-"# Object Sorting" 
+# Object Sorting
 
 Object sorting:
 ## Scene Setup:
