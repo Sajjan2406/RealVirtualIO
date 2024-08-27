@@ -1,6 +1,6 @@
 # Object Sorting
 
-Object sorting:
+
 ## Scene Setup:
 - **Components**:
   - 1 Plunger
@@ -10,7 +10,8 @@ Object sorting:
   - CanDetected (CD)
   - ForwardFinish (FF)
 
-## Aim: To push the boxes from one conveyor onto another
+## Aim: 
+To push the boxes from one conveyor onto another
 
 ## Procedure: 
 1. **Signal Placement**:
